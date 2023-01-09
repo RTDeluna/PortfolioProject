@@ -308,21 +308,6 @@ section {
 	transition: all 0.4s ease-in-out;
 	width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-	width: 90%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-	width: 92%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-	width: 87%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-	width: 10%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-	width: 50%;
-}
 
 .stat-title {
 	text-transform: uppercase;
